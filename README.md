@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/laurensschumacher/Zipit/_apis/build/status/laurensschumacher.pipelines-java?branchName=master)](https://dev.azure.com/laurensschumacher/Zipit/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
